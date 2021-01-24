@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build --baseHref=/CI-CD-Practical-1/",
     "build:prod": "ng build --prod --baseHref=/CI-CD-Practical-1/",
     "test": "ng test",
     "lint": "ng lint",
